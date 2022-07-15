@@ -21,4 +21,4 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [vue-cli文档](https://cli.vuejs.org/config/).
